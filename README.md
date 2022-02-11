@@ -1,7 +1,7 @@
 # Descrição
 Sistema simples que analisa os números informados no campo de dados.
 
-O sistema é um exercicio Javascript feito como forma de estudo para fixar os conhecimentos aprendido durante o curso [Curso Grátis de JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
+O sistema é um exercicio Javascript feito como forma de estudo para fixar os conhecimentos aprendido durante o [Curso Grátis de JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 
 # Como rodar
 ```shell
