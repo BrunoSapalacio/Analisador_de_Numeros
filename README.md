@@ -16,4 +16,5 @@ git clone https://github.com/BrunoSapalacio/Calculadora_IMC.git
 ```
 
 # Prints
-
+![pagina1](https://user-images.githubusercontent.com/64747697/153518775-377336c3-5bee-4a0e-b09a-5cc5705b3501.png)
+![pagina2](https://user-images.githubusercontent.com/64747697/153518776-185b8d7d-7285-453a-ba39-b212359c54b9.png)
