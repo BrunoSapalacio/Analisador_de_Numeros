@@ -6,7 +6,7 @@ O sistema é um exercicio Javascript feito como forma de estudo para fixar os co
 # Como rodar
 ```shell
 # Clonar o diretório
-git clone https://github.com/BrunoSapalacio/Calculadora_IMC.git
+git clone https://github.com/BrunoSapalacio/Analisador_de_Numeros.git
 
 # Entrar numa IDE de sua preferência
 
