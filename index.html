@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analisador de Números</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Analisador de Números</h1>
+    </header>
+    <section>
+        <div id="content">
+            <div id="topo">
+                <label for="numero">Número (entre 1 a 100) </label>
+                <input type="text" name="numero" id="numero" onkeyup="somenteNumeros(this);">
+                <input type="button" value="Adicionar" onclick="analisar()">
+            </div>
+            <select name="conteudo" id="conteudo" multiple="multiple">    
+            </select>  
+            <input type="button" id="b-finalizar" value="Finalizar" onclick="finalizar()">
+        </div>
+        <div id="res"></div>
+    </section>
+    <footer>
+        <p>&copy; Bruno Sapalacio</p>
+    </footer>
+    <script src="js/script.js"></script>
+</body>
+</html>
