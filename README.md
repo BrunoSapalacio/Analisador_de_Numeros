@@ -2,12 +2,12 @@
 Sistema simples que analisa os números informados no campo de dados.
 
 # Propósito
-O sistema é um exercicio Javascript feito como forma de estudo para fixar os conhecimentos aprendido durante o [Curso Grátis de JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
+O sistema é um exercicio Javascript feito como forma de estudo para fixar os conhecimentos aprendido durante o [Curso Grátis de JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1), principalmente o uso de **Arrays**.
 
 # Como rodar
 1 - Clone o diretório.
 ```shell
-git clone https://github.com/BrunoSapalacio/Calculadora_IMC.git
+git clone https://github.com/BrunoSapalacio/Analisador_de_Numeros.git
 ```
 2 - Inicialize o Visual Studio Code.
 
